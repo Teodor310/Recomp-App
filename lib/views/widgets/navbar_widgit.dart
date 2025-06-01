@@ -48,8 +48,8 @@ class _NavbarWidgitState extends State<NavbarWidgit> {
                     _navItem(Icons.home, "Home", 1, selectedPage),
                     SizedBox(width: 56),
 
-                    _navItem(Icons.book, "Journal", 2, selectedPage),
-                    _navItem(Icons.settings, "Settings", 3, selectedPage),
+                    _navItem(Icons.book, "Journal", 3, selectedPage),
+                    _navItem(Icons.settings, "Settings", 4, selectedPage),
                   ],
                 ),
               ),

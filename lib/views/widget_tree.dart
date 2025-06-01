@@ -5,6 +5,7 @@ import 'package:recomp_ai/views/pages/journal.dart';
 import 'package:recomp_ai/views/pages/manual_input.dart';
 import 'package:recomp_ai/views/pages/settings.dart';
 import 'package:recomp_ai/views/widgets/navbar_widgit.dart';
+import 'package:recomp_ai/views/pages/scale_page.dart';
 
 class WidgetTree extends StatefulWidget {
   const WidgetTree({super.key});
@@ -14,8 +15,9 @@ class WidgetTree extends StatefulWidget {
 }
 
 List<Widget> screens = [
-  ManualInputPage(),
+  ScalePage(),
   HomePage(),
+  ManualInputPage(),
   JournalPage(),
   SettingsPage(),
 ];
