@@ -14,9 +14,9 @@ class WidgetTree extends StatefulWidget {
 }
 
 List<Widget> screens = [
-  JournalPage(),
-  HomePage(),
   ManualInputPage(),
+  HomePage(),
+  JournalPage(),
   SettingsPage(),
 ];
 
