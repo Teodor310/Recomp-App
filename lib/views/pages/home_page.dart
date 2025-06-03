@@ -1,3 +1,4 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'dart:math';
 
@@ -20,11 +21,19 @@ class _HomePageState extends State<HomePage> {
     });
   }
 
+  // signUserOut
+  void signUserOut() {
+    FirebaseAuth.instance.signOut();
+  }
+
   @override
   Widget build(BuildContext context) {
     final displayPercentage = (percentage * 100).clamp(0, 100).round();
 
     return Scaffold(
+      appBar: AppBar(
+        actions: [IconButton(onPressed: signUserOut, icon: Icon(Icons.logout))],
+      ),
       body: Padding(
         padding: const EdgeInsets.all(20.0),
         child: Column(

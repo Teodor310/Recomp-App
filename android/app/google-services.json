@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "603874645179",
+    "project_id": "caloryauth",
+    "storage_bucket": "caloryauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603874645179:android:6a8e348a2736b932ecc59e",
+        "android_client_info": {
+          "package_name": "com.example.recomp_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSuYo5o3gDKNkUa4wSxhACAGoo1kmsF9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603874645179:android:0ff2cd1ca34eb4b9ecc59e",
+        "android_client_info": {
+          "package_name": "com.flutternovice.my_first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSuYo5o3gDKNkUa4wSxhACAGoo1kmsF9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
