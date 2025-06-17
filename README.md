@@ -2,12 +2,12 @@
 
 🚧 **Work in Progress** 🚧  
 This project is currently under active development. Functionality and structure may change frequently.
-
-## Goals
-
+## Goal 
 Calorie tracking app with AI features.
-![Demo Screenshot](https://github.com/user-attachments/assets/88ba7899-26a9-4e6f-8b2e-31d9d23f49c5)
 
+## Demo Home Screen
+
+![Demo Screenshot](https://github.com/user-attachments/assets/88ba7899-26a9-4e6f-8b2e-31d9d23f49c5)
 
 ## Development Setup
 
