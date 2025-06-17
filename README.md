@@ -6,6 +6,8 @@ This project is currently under active development. Functionality and structure 
 ## Goals
 
 Calorie tracking app with AI features.
+![image](https://github.com/user-attachments/assets/88ba7899-26a9-4e6f-8b2e-31d9d23f49c5)
+
 
 ## Development Setup
 
