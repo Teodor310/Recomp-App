@@ -1,16 +1,20 @@
-# recomp_ai
+# Recomp AI
 
-A new Flutter project.
+🚧 **Work in Progress** 🚧  
+This project is currently under active development. Functionality and structure may change frequently.
 
-## Getting Started
+## Goals
 
-This project is a starting point for a Flutter application.
+Calorie tracking app with AI features.
 
-A few resources to get you started if this is your first Flutter project:
+## Development Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+# Clone the repository
+git clone https://github.com/Teodor310/Recomp-App.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Navigate into the project directory
+cd project-name
+
+# Install dependencies
+will be installed automatically
