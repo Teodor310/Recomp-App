@@ -3,7 +3,7 @@
 🚧 **Work in Progress** 🚧  
 This project is currently under active development. Functionality and structure may change frequently.
 ## Goal 
-Calorie tracking app with AI features.
+Calorie tracking app with AI features. A smart calorie tracking app built using the Flutter framework, featuring seamless Firebase authentication and enhanced with AI-powered features to help users manage their nutrition more intelligently.
 
 ## Demo Home Screen
 
